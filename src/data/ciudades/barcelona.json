@@ -1,0 +1,223 @@
+{
+  "slug": "barcelona",
+  "nombre": "Barcelona",
+  "provincia": "Barcelona",
+  "lat": 41.411625011263446,
+  "lng": 2.137863337142341,
+  "telefono": "+34 633 75 96 49",
+  "email": "seoexpertsslu@gmail.com",
+  "direccion": "Carrer de Lleó XIII, 2, Sarrià-Sant Gervasi",
+  "codigoPostal": "08022 ",
+  "zonas": [
+    "Ciutat Vella",
+    "Eixample",
+    "Les Corts",
+    "Sarrià-Sant Gervasi",
+    "Horta-Guinardó",
+    "Nou Barris",
+    "Sant Andreu",
+    "Sants-Montjuïc",
+    "Gràcia",
+    "Poblenou",
+    "Barceloneta",
+    "Chamarel",
+    "La Mina",
+    "Trinitat Nova",
+    "Collblanc"
+  ],
+  "serviciosActivos": [
+    "limpieza-por-fallecimiento-en-viviendas",
+    "retirada-de-muebles-y-enseres-afectados",
+    "eliminacion-de-olores-persistentes",
+    "limpiezas-traumaticas-y-extremas",
+    "vaciado-de-pisos-y-viviendas-afectadas"
+  ],
+  "seoIntro": "Limpiezas por fallecimiento en Barcelona... En Biofix entendemos el difícil momento que atraviesa su familia. Barcelona, la vibrante capital de {provincia} y con más de 1.6 millones de habitantes, requiere profesionales especializados en limpieza post-fallecimiento, desinfección profunda y eliminación de olores para garantizar un ambiente seguro e higiénico tras una pérdida. Ofrecemos servicios discretos y respetuosos en todo el área metropolitana de Barcelona, incluyendo la comarca del Vallès Occidental, con experiencia en protocolos sanitarios y limpieza integral.",
+  "metaDesc": "Limpiezas por fallecimiento en Barcelona — Servicios profesionales, rápidos y discretos para momentos difíciles. Contacta a Biofix {ciudad} ahora.",
+  "ciudadesSecundarias": [
+    {
+      "nombre": "Barcelona",
+      "slug": "barcelona",
+      "seoIntro": "Limpiezas por fallecimiento en Barcelona. Ofrecemos servicios integrales de limpieza tras defunción en Barcelona, la ciudad más poblada de {provincia}, con más de 1.6 millones de habitantes y barrios como Gràcia o Sarrià-Sant Gervasi. Biofix es su aliado en momentos difíciles, cubriendo toda el área metropolitana de Barcelona.",
+      "metaDesc": "Limpiezas por fallecimiento en Barcelona — Servicios integrales y respetuosos | Biofix",
+      "zonas": [
+        "Gràcia",
+        "Sarrià-Sant Gervasi",
+        "Les Corts",
+        "Eixample",
+        "Sant Martí",
+        "Horta-Guinardó",
+        "Nou Barris",
+        "Sants-Montjuïc"
+      ],
+      "serviciosActivos": [
+        "limpieza-por-fallecimiento-en-viviendas",
+        "retirada-de-muebles-y-enseres-afectados",
+        "eliminacion-de-olores-persistentes",
+        "limpiezas-traumaticas-y-extremas",
+        "vaciado-de-pisos-y-viviendas-afectadas"
+      ]
+    },
+    {
+      "nombre": "L'Hospitalet de Llobregat",
+      "slug": "lhospitalet-de-llobregat",
+      "seoIntro": "Limpiezas por fallecimiento en L'Hospitalet de Llobregat. Disponemos de profesionales especializados en limpieza post mortem en L'Hospitalet, una ciudad con más de 250,000 habitantes en la comarca del Baix Llobregat.  Servicios rápidos y discretos en {provincia}.",
+      "metaDesc": "Limpiezas por fallecimiento en L'Hospitalet de Llobregat — Rapidez y discreción garantizadas | Biofix",
+      "zonas": [
+        "Collblanc",
+        "La Torrassa",
+        "Bellvitge",
+        "San Josep",
+        "Pubilla Cases",
+        "Ciutat Meridiana",
+        "Les Vines i Vilbaïro",
+        "Constantí"
+      ],
+      "serviciosActivos": [
+        "limpieza-por-fallecimiento-en-viviendas",
+        "retirada-de-muebles-y-enseres-afectados",
+        "eliminacion-de-olores-persistentes",
+        "limpiezas-traumaticas-y-extremas",
+        "vaciado-de-pisos-y-viviendas-afectadas"
+      ]
+    },
+    {
+      "nombre": "Badalona",
+      "slug": "badalona",
+      "seoIntro": "Limpiezas por fallecimiento en Badalona.  Contamos con un equipo experimentado para realizar limpiezas tras defunción en Badalona, una ciudad costera de la comarca del Vallès Oriental con más de 240,000 habitantes. Biofix le ofrece soluciones a medida en {provincia}.",
+      "metaDesc": "Limpiezas por fallecimiento en Badalona — Soluciones personalizadas y profesionales | Biofix",
+      "zonas": [
+        "Centre",
+        "El Pedret",
+        "Montigalà",
+        "Sant Andreu",
+        "Collègia",
+        "Riera",
+        "Les Planetes",
+        "Fondo"
+      ],
+      "serviciosActivos": [
+        "limpieza-por-fallecimiento-en-viviendas",
+        "retirada-de-muebles-y-enseres-afectados",
+        "eliminacion-de-olores-persistentes",
+        "limpiezas-traumaticas-y-extremas",
+        "vaciado-de-pisos-y-viviendas-afectadas"
+      ]
+    },
+    {
+      "nombre": "Sant Adrià de Besòs",
+      "slug": "sant-adria-de-besos",
+      "seoIntro": "Limpiezas por fallecimiento en Sant Adrià de Besòs.  Ofrecemos servicios profesionales de limpieza después del fallecimiento en Sant Adrià de Besòs, una ciudad con más de 85,000 habitantes y situada a orillas del río Besòs en {provincia}. Biofix se compromete a ofrecer un trato cercano y respetuoso.",
+      "metaDesc": "Limpiezas por fallecimiento en Sant Adrià de Besòs — Trato cercano y soluciones eficientes | Biofix",
+      "zonas": [
+        "Can Padró",
+        "La Llagosta",
+        "Fondo",
+        "Viladecans",
+        "Centre",
+        "Estació",
+        "Serralles",
+        "Salut"
+      ],
+      "serviciosActivos": [
+        "limpieza-por-fallecimiento-en-viviendas",
+        "retirada-de-muebles-y-enseres-afectados",
+        "eliminacion-de-olores-persistentes",
+        "limpiezas-traumaticas-y-extremas",
+        "vaciado-de-pisos-y-viviendas-afectadas"
+      ]
+    },
+    {
+      "nombre": "Esplugues de Llobregat",
+      "slug": "esplugues-de-llobregat",
+      "seoIntro": "Limpiezas por fallecimiento en Esplugues de Llobregat.  Nuestro equipo está preparado para realizar limpiezas tras defunción en Esplugues de Llobregat, una ciudad con más de 95,000 habitantes en la comarca del Baix Llobregat en {provincia}.  Garantizamos la máxima discreción y profesionalidad.",
+      "metaDesc": "Limpiezas por fallecimiento en Esplugues de Llobregat — Discreción y profesionalidad garantizadas | Biofix",
+      "zonas": [
+        "Centre",
+        "Font Bastera",
+        "Can Muscat",
+        "Les Planes",
+        "Collblanc",
+        "Montanya",
+        "Americà",
+        "Riu Negre"
+      ],
+      "serviciosActivos": [
+        "limpieza-por-fallecimiento-en-viviendas",
+        "retirada-de-muebles-y-enseres-afectados",
+        "eliminacion-de-olores-persistentes",
+        "limpiezas-traumaticas-y-extremas",
+        "vaciado-de-pisos-y-viviendas-afectadas"
+      ]
+    },
+    {
+      "nombre": "Cornellà de Llobregat",
+      "slug": "cornella-de-llobregat",
+      "seoIntro": "Limpiezas por fallecimiento en Cornellà de Llobregat.  Proporcionamos servicios especializados de limpieza después del fallecimiento en Cornellà de Llobregat, una ciudad con más de 85,000 habitantes y cerca del aeropuerto de Barcelona en {provincia}. Biofix le ofrece soluciones rápidas y eficaces.",
+      "metaDesc": "Limpiezas por fallecimiento en Cornellà de Llobregat — Rápidos servicios y resultados impecables | Biofix",
+      "zonas": [
+        "Centre",
+        "Les Planes",
+        "Sant Ildefons",
+        "Terra Nova",
+        "Singuerlín",
+        "Molí d'en Gonyi",
+        "Can Salvatella",
+        "Les Corts"
+      ],
+      "serviciosActivos": [
+        "limpieza-por-fallecimiento-en-viviendas",
+        "retirada-de-muebles-y-enseres-afectados",
+        "eliminacion-de-olores-persistentes",
+        "limpiezas-traumaticas-y-extremas",
+        "vaciado-de-pisos-y-viviendas-afectadas"
+      ]
+    },
+    {
+      "nombre": "Santa Coloma de Gramenet",
+      "slug": "santa-coloma-de-gramenet",
+      "seoIntro": "Limpiezas por fallecimiento en Santa Coloma de Gramenet.  Ofrecemos servicios de limpieza post mortem con el máximo cuidado y respeto en Santa Coloma de Gramenet, una ciudad industrial de la comarca del Vallès Occidental en {provincia}. Biofix es su compañía de confianza.",
+      "metaDesc": "Limpiezas por fallecimiento en Santa Coloma de Gramenet — Compañía de confianza para momentos difíciles | Biofix",
+      "zonas": [
+        "Centre",
+        "Fondo",
+        "Viladecans",
+        "Torrent i Balenyà",
+        "Can Cabanyes",
+        "Les Contentes",
+        "Castellbisbal",
+        "Buford"
+      ],
+      "serviciosActivos": [
+        "limpieza-por-fallecimiento-en-viviendas",
+        "retirada-de-muebles-y-enseres-afectados",
+        "eliminacion-de-olores-persistentes",
+        "limpiezas-traumaticas-y-extremas",
+        "vaciado-de-pisos-y-viviendas-afectadas"
+      ]
+    },
+    {
+      "nombre": "Molins de Rei",
+      "slug": "molins-de-rei",
+      "seoIntro": "Limpiezas por fallecimiento en Molins de Rei.  Nuestro equipo cubre toda la zona de Molins de Rei, una ciudad con más de 35,000 habitantes perteneciente a la comarca del Vallès Occidental y situada en {provincia}. Biofix proporciona servicios rápidos y profesionales.",
+      "metaDesc": "Limpiezas por fallecimiento en Molins de Rei — Servicios rápidos y profesionales garantizados | Biofix",
+      "zonas": [
+        "Centre",
+        "Plaça de l'Església",
+        "Can Cabanyes",
+        "Torrent d’en Colomer",
+        "Les Maçanes",
+        "La Font",
+        "Sant Pere",
+        "El Palou"
+      ],
+      "serviciosActivos": [
+        "limpieza-por-fallecimiento-en-viviendas",
+        "retirada-de-muebles-y-enseres-afectados",
+        "eliminacion-de-olores-persistentes",
+        "limpiezas-traumaticas-y-extremas",
+        "vaciado-de-pisos-y-viviendas-afectadas"
+      ]
+    }
+  ]
+}
