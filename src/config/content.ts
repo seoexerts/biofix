@@ -12,49 +12,49 @@ export const content = {
 
   // ── Hero ──────────────────────────────────────────────────────
   hero: {
-    eyebrow:     'Empresa especializada en limpieza por fallecimiento en Barcelona',
-    h1main:      'Limpiezas por Fallecimiento',
-    h1accent:    'en Barcelona y el Área Metropolitana',
-    description: 'Biofix ofrece servicios discretos, profesionales y respetuosos para la limpieza de viviendas tras un fallecimiento en Barcelona. Nos encargamos de todo, desde la retirada de muebles hasta la eliminación de olores persistentes, brindando apoyo en momentos difíciles.',
-    badge1:      'Presupuesto en 30 minutos',
-    badge2:      'Más de 15 años de experiencia en {{city}}',
-    badge3:      'Certificación Sanitaria COVID-19',
-    badge4:      'Cobertura total del Baix Llobregat y comarcas',
-    cardStat:    '+700',
-    cardLabel:   'viviendas limpiadas en Barcelona',
+    eyebrow:     'Especialistas en bioremediation y limpieza forense en Barcelona',
+    h1main:      'Limpieza Forense y Bioremediation',
+    h1accent:    'Protocolo certificado en Barcelona',
+    description: 'Biofix aplica protocolos científicos de bioremediation y descontaminación biológica tras fallecimientos en Barcelona. Técnicos acreditados, documentación legal completa y gestión de residuos biológicos según normativa sanitaria vigente.',
+    badge1:      'Certificado de descontaminación con validez legal',
+    badge2:      'Técnicos acreditados en bioremediation',
+    badge3:      'Gestión de residuos autorizada ARC',
+    badge4:      'Cobertura Barcelonés y Baix Llobregat',
+    cardStat:    '+900',
+    cardLabel:   'intervenciones documentadas en Cataluña',
   },
 
   // ── Beneficios (6 tarjetas) ────────────────────────────────────
   benefits: [
     {
       icon: 'shield',
-      title:       'Desinfección integral y segura',
-      description: 'Utilizamos productos desinfectantes homologados y equipos profesionales para garantizar la eliminación de gérmenes y bacterias. Cumplimos con las normativas sanitarias vigentes en el Àrea Metropolitana de Barcelona.',
+      title:       'Protocolos científicos de descontaminación',
+      description: 'Aplicamos protocolos de bioremediation basados en normativa sanitaria europea. Cada intervención incluye análisis previo de agentes biológicos, selección de biocidas específicos y verificación post-limpieza mediante test de superficie.',
     },
     {
       icon: 'clock',
-      title:       'Intervención rápida y flexible',
-      description: 'Ofrecemos disponibilidad 24/7, incluyendo fines de semana y festivos, para atender sus necesidades con la mayor urgencia posible. Nuestro equipo se desplaza a su domicilio en {{city}} en menos de una hora en casos prioritarios.',
+      title:       'Respuesta técnica en menos de 2 horas',
+      description: 'Nuestro equipo técnico se moviliza en menos de 2 horas para intervenciones urgentes en {{city}}. Disponibilidad continua 365 días al año, con vehículo equipado y material de nivel biológico para análisis in situ.',
     },
     {
       icon: 'check',
-      title:       'Servicios completos y personalizados',
-      description: 'Adaptamos nuestros servicios a cada situación específica, desde limpiezas básicas hasta intervenciones más complejas que requieren tratamientos especiales.  Incluimos la gestión de residuos peligrosos según normativa municipal de Barcelona.',
+      title:       'Documentación y certificación completa',
+      description: 'Emitimos certificado de descontaminación biológica, albaranes de residuos peligrosos y acta de intervención con validez legal. Imprescindible para herencias, seguros y procesos judiciales en Barcelona.',
     },
     {
       icon: 'box',
-      title:       'Cobertura en todo el Barcelonés y alrededores',
-      description: 'Prestamos nuestros servicios en toda la ciudad de Barcelona, incluyendo barrios como Sarrià-Sant Gervasi, Les Corts, Gràcia y Sant Martí.  También atendemos municipios del Baix Llobregat y Vallès Occidental.',
+      title:       'Gestión de residuos biológicos autorizada',
+      description: 'Somos transportistas autorizados por la Agència de Residus de Catalunya (ARC) para residuos biológicos peligrosos. Todos los residuos se eliminan en gestores certificados con documentación trazable.',
     },
     {
       icon: 'heart',
-      title:       'Atención humana y discreta',
-      description: 'Comprendemos la delicada situación que está atravesando y ofrecemos un trato cercano, respetuoso y confidencial. Nuestro equipo se presenta con uniforme profesional para preservar su privacidad en {{city}}.',
+      title:       'Confidencialidad y protocolo de privacidad',
+      description: 'Firmamos acuerdo de confidencialidad con cada cliente. El equipo trabaja con indumentaria neutra, vehículos sin rotulación y acceso discreto para preservar la intimidad en {{city}}.',
     },
     {
       icon: 'users',
-      title:       'Equipo especializado y cualificado',
-      description: 'Contamos con un equipo de profesionales formados específicamente en limpiezas por fallecimiento y traumatismos.  Todos nuestros técnicos están debidamente equipados y capacitados para afrontar cualquier situación delicada.',
+      title:       'Técnicos especializados y acreditados',
+      description: 'Todo el personal cuenta con formación específica en bioremediation, manejo de residuos biológicos y primeros auxilios psicológicos. Acreditados por la Generalitat de Catalunya como gestores de residuos sanitarios.',
     }
   ],
 
@@ -63,48 +63,48 @@ export const content = {
     {
       slug:        'retirada-de-enseres-y-materiales-afectados',
       nombre:      'Retirada de enseres y materiales afectados',
-      description: 'En MortemClean, nos encargamos de la retirada discreta y profesional de objetos y mobiliario afectados en Barcelona. Ofrecemos un servicio integral para facilitar el proceso tras una pérdida, cubriendo toda la zona del Barcelonés.',
-      features:    ['Recogida rápida y eficiente', 'Certificado de destrucción', 'Gestión responsable de residuos', 'Servicio disponible en Barcelona ciudad y alrededores'],
+      description: 'Biofix realiza la retirada técnica de materiales contaminados con clasificación según normativa de residuos biológicos. Cada elemento se cataloga, embala según protocolo y gestiona con albarán trazable ante gestores autorizados en Cataluña.',
+      features:    ['Clasificación según normativa RD 180/2015', 'Embalaje de seguridad nivel biológico', 'Albarán de residuos peligrosos', 'Gestión en instalación autorizada ARC'],
       featured:    true,
       ctaPage:     true,
     },
     {
       slug:        'limpieza-y-descontaminacion-de-la-zona-afectada',
       nombre:      'Limpieza y descontaminación de la zona afectada',
-      description: 'MortemClean ofrece servicios especializados de limpieza profunda y descontaminación en Barcelona, eliminando cualquier rastro biológico o químico. Nos aseguramos de que el espacio se prepare adecuadamente para los siguientes pasos, operando en todo el Barcelonés.',
-      features:    ['Utilizamos productos homologados', 'Eliminación de bacterias y virus', 'Cumplimiento normativo vigente', 'Servicio urgente disponible en Barcelona y comarca.'],
+      description: 'Protocolo de descontaminación en dos fases: eliminación mecánica de materia orgánica y aplicación de biocidas de alto espectro. Biofix verifica la eficacia mediante análisis de superficie con resultados documentados.',
+      features:    ['Análisis de superficie pre y post-intervención', 'Biocidas de nivel hospitalario', 'Verificación con test ATP de luminiscencia', 'Certificado de descontaminación con validez legal'],
       featured:    true,
       ctaPage:     true,
     },
     {
       slug:        'desinfeccion-y-sanitizacion-profesional',
       nombre:      'Desinfección y sanitización profesional',
-      description: 'Garantizamos una desinfección y sanitización completa de la vivienda o espacio afectado en Barcelona con MortemClean. Nuestros protocolos eliminan cualquier riesgo de contaminación, ofreciendo tranquilidad a familiares y profesionales del Barcelonés.',
-      features:    ['Tecnología de niebla fría', 'Productos biodegradables y seguros', 'Certificación de limpieza', 'Amplia cobertura en el área metropolitana de Barcelona.'],
+      description: 'Biofix aplica sistemas de desinfección por nebulización en frío con desinfectantes virucidas y bactericidas registrados en la AEMPS. El tratamiento garantiza la eliminación de patógenos en todas las superficies, incluidas zonas de difícil acceso.',
+      features:    ['Nebulización con desinfectante AEMPS registrado', 'Cobertura total de superficies y aire', 'Certificado de desinfección emitido', 'Efectivo frente a patógenos biológicos y químicos'],
       featured:    true,
       ctaPage:     true,
     },
     {
       slug:        'eliminacion-de-olores-persistentes',
       nombre:      'Eliminación de olores persistentes',
-      description: 'MortemClean elimina eficazmente los olores difíciles y persistentes tras un fallecimiento en Barcelona, utilizando técnicas profesionales. Recuperamos la normalidad ambiental en el espacio con nuestro servicio especializado para el Barcelonés.',
-      features:    ['Neutralización de olores orgánicos', 'Tratamiento enzimático avanzado', 'Olor fresco garantizado', 'Servicio disponible 24/7 en toda la provincia de Barcelona.'],
+      description: 'Tratamiento de olores mediante combinación de enzimas proteolíticas, oxidación catalítica y generación de ozono calibrado. Biofix identifica el foco mediante análisis organoléptico y aplica el tratamiento específico según el origen del olor.',
+      features:    ['Diagnóstico del foco emisor', 'Tratamiento enzimático proteolítico', 'Ozonización calibrada y controlada', 'Garantía de resultado o repetición gratuita'],
       featured:    true,
       ctaPage:     true,
     },
     {
       slug:        'gestion-de-residuos-biologicos-y-materiales-contaminados',
       nombre:      'Gestión de residuos biológicos y materiales contaminados',
-      description: 'MortemClean gestiona legalmente los residuos biológicos y materiales contaminados generados en Barcelona, cumpliendo con todas las normativas vigentes. Ofrecemos un servicio seguro y confidencial para el Barcelonés y sus alrededores.',
-      features:    ['Albarán de entrega de residuos', 'Transporte autorizado por la Generalitat', 'Eliminación en gestor certificado', 'Servicio integral de gestión de residuos en Barcelona ciudad.'],
+      description: 'Como transportista autorizado, Biofix gestiona la cadena de custodia completa de residuos biológicos del grupo III y IV. Documentación trazable para notarios, administradores de fincas e instituciones que requieran acreditación legal de la gestión.',
+      features:    ['Autorización ARC para residuos peligrosos', 'Documento de control de residuos (DCR)', 'Cadena de custodia documentada', 'Eliminación en gestor certificado con justificante'],
       featured:    true,
       ctaPage:     true,
     },
     {
       slug:        'limpieza-integral-y-recuperacion-de-la-vivienda',
       nombre:      'Limpieza integral y recuperación de la vivienda',
-      description: 'MortemClean ofrece una limpieza integral y profunda para recuperar la habitabilidad de la vivienda en Barcelona, tras un fallecimiento.  Restauramos el espacio a su estado original, brindando apoyo al proceso duelo en todo el Barcelonés.',
-      features:    ['Preparación completa para herederos', 'Limpieza de alfombras y tapicerías', 'Desinfección del aire', 'Servicio personalizado para cada cliente en Barcelona y comarca.'],
+      description: 'Servicio técnico completo para la recuperación total del inmueble: descontaminación biológica, tratamiento estructural de paredes y suelos afectados, eliminación de olores y verificación final. Biofix entrega el inmueble con certificado de habitabilidad técnica.',
+      features:    ['Descontaminación estructural completa', 'Tratamiento de superficies porosas afectadas', 'Verificación final con análisis documental', 'Apto para herencias, arrendamientos y venta'],
       featured:    true,
       ctaPage:     true,
     }
@@ -112,117 +112,124 @@ export const content = {
 
   // ── Textos de secciones ───────────────────────────────────────
   sections: {
-    beneficiosSub:  'Más de 10 años de experiencia. Equipo propio, sin subcontratas y con gestión de residuos certificada.',
-    serviciosSub:   'Todo lo que necesitas para dejar el inmueble listo.',
-    testimoniosSub: 'Más de 500 familias y empresas han confiado en nosotros.',
+    beneficiosH2:   '¿Por qué Biofix en {{city}}?',
+    beneficiosSub:  'Protocolos científicos. Documentación legal. Técnicos acreditados por la Generalitat de Catalunya.',
+    serviciosH2:    'Servicios técnicos en {{city}}',
+    serviciosSub:   'Cada intervención documentada y certificada según normativa sanitaria vigente.',
+    zonaH2:         'Cobertura técnica: {{city}} y área metropolitana',
+    procesoH2:      'Protocolo de intervención: 4 fases técnicas',
+    testimoniosH2:  'Clientes que confían en nuestro protocolo en {{city}}',
+    testimoniosSub: 'Administradores de fincas, bufetes de abogados y familias avalan nuestro trabajo.',
+    preciosH2:      'Tarifas orientativas en {{city}}',
     zonaComarca:    'de la comarca',
-    zonaBarrios:    'También en los barrios de {{city}}:',
-    preciosSub:     'Presupuesto final gratuito y sin compromiso. Estos precios son orientativos — el coste real depende del volumen y accesibilidad.',
-    preciosNota:    'Precios orientativos para {{city}}. El presupuesto definitivo se calcula según el volumen real, accesibilidad y distancia al punto limpio. Siempre gratuito y sin compromiso.',
-    faqSub:         'Resolvemos las dudas más habituales antes de contratar el servicio.',
+    zonaBarrios:    'Intervenciones técnicas en los barrios de {{city}}:',
+    preciosSub:     'Presupuesto técnico gratuito. Precio final según análisis previo del espacio y nivel de contaminación biológica.',
+    faqH2:          'Preguntas técnicas frecuentes en {{city}}',
+    preciosNota:    'Tarifas orientativas para {{city}}. El presupuesto definitivo requiere evaluación técnica previa del inmueble. Siempre gratuito y sin compromiso.',
+    faqSub:         'Información técnica y legal sobre el proceso de descontaminación biológica.',
   },
 
   // ── Testimonios (4) ───────────────────────────────────────────
   testimonials: [
     {
-      initials: 'MC',
-      name:     'María C.',
+      initials: 'RP',
+      name:     'Ramón P.',
+      location: 'Administrador de Fincas, Eixample',
+      service:  'Descontaminación biológica y certificación',
+      quote:    'Trabajo con Biofix desde hace tres años para todos los casos de fallecimiento en las fincas que gestiono. Su documentación es impecable y los certificados que emiten son válidos ante notaría. Indispensables para transmisiones de inmueble.',
+    },
+    {
+      initials: 'CT',
+      name:     'Carmen T.',
+      location: 'Abogada, Sarrià-Sant Gervasi',
+      service:  'Gestión de residuos biológicos con documentación legal',
+      quote:    'En procesos sucesorios con viviendas que requieren limpieza forense, Biofix nos proporciona toda la documentación necesaria: albaranes, certificados ARC y acta de intervención. Muy recomendables para casos con implicación legal.',
+    },
+    {
+      initials: 'MF',
+      name:     'Miquel F.',
       location: 'Gràcia, Barcelona',
-      service:  'Limpieza integral tras fallecimiento',
-      quote:    'Después del fallecimiento de mi madre, Biofix fue una bendición. Limpiaron su piso en Gràcia con mucho cuidado y profesionalidad, dejándolo impecable. Agradezco enormemente su trato humano y discreción.',
+      service:  'Protocolo completo de bioremediation',
+      quote:    'Necesitaba que el piso de mi padre quedara certificado para venderlo. Biofix hizo el protocolo completo: análisis previo, descontaminación y certificado final. El notario aceptó sin problema la documentación que me entregaron.',
     },
     {
-      initials: 'JR',
-      name:     'Jordi R.',
-      location: 'Sarrià, Barcelona',
-      service:  'Retirada de muebles y eliminación de olores',
-      quote:    'La retirada de los muebles y la limpieza profunda para eliminar los olores en el piso de mi abuelo en Sarrià fue impecable. El equipo fue muy profesional y me explicaron todo el proceso con paciencia.',
-    },
-    {
-      initials: 'AL',
-      name:     'Ana L.',
-      location: 'Les Corts, Barcelona',
-      service:  'Limpieza por fallecimiento y vaciado de vivienda',
-      quote:    'Necesitaba una limpieza urgente en Les Corts tras un familiar. Biofix respondió rápido, con un precio justo y un servicio excelente. ¡Los recomiendo totalmente!',
-    },
-    {
-      initials: 'PG',
-      name:     'Pedro G.',
-      location: 'Sant Martí, Barcelona',
-      service:  'Limpieza traumática de vivienda',
-      quote:    'He utilizado los servicios de Biofix en varias ocasiones para limpiezas por fallecimiento. Siempre han sido profesionales y eficientes. Su equipo es de confianza.',
+      initials: 'SN',
+      name:     'Sonia N.',
+      location: 'Cornellà de Llobregat',
+      service:  'Verificación post-limpieza con análisis de superficie',
+      quote:    'Lo que me dio confianza fue que no se fueron sin hacer el test final de superficie. Vi los resultados del análisis antes de firmar la conformidad. Eso es lo que diferencia un servicio técnico serio de los demás.',
     }
   ],
 
   // ── Precios (3 tramos) ────────────────────────────────────────
   pricing: [
     {
-      tipo:      'Limpieza básica (1-2 habitaciones)',
-      precio:    'desde 595 €',
+      tipo:      'Intervención básica (1-2 estancias)',
+      precio:    'desde 650 €',
       highlight: false,
-      features:  ['Retirada de pertenencias básicas', 'Limpieza general de superficies', 'Desinfección estándar'],
+      features:  ['Diagnóstico técnico previo', 'Descontaminación de zona afectada', 'Certificado de desinfección', 'Albarán de residuos'],
     },
     {
-      tipo:      'Limpieza completa (3+ habitaciones)',
-      precio:    'desde 949 €',
+      tipo:      'Protocolo completo (3+ estancias)',
+      precio:    'desde 1.050 €',
       highlight: false,
       badge:     'Más solicitado',
-      features:  ['Retirada integral de muebles y objetos personales', 'Limpieza profunda de suelos, paredes y techos', 'Eliminación de olores persistentes', 'Gestión de residuos peligrosos', 'Desinfección completa con productos homologados'],
+      features:  ['Análisis pre y post-intervención', 'Descontaminación integral de todo el inmueble', 'Eliminación de olores con tratamiento enzimático', 'Gestión completa de residuos peligrosos', 'Certificado de habitabilidad técnica'],
     },
     {
-      tipo:      'Vaciado completo y limpieza extrema',
-      precio:    'Presupuesto personalizado',
+      tipo:      'Bioremediation integral + certificación legal',
+      precio:    'Presupuesto técnico',
       highlight: true,
-      badge:     '1200€',
-      features:  ['Retirada total del contenido de la vivienda', 'Limpieza a fondo de todas las áreas afectadas', 'Tratamiento de manchas difíciles', 'Desinfección especializada contra agentes patógenos', 'Gestión integral de residuos'],
+      badge:     'Desde 1.400€',
+      features:  ['Protocolo completo documentado', 'Apto para herencias y transmisiones notariales', 'Informe técnico con validez legal', 'Verificación final con test ATP', 'Coordinación con notaría o asesoría jurídica'],
     }
   ],
 
   // ── Preguntas frecuentes (6) ──────────────────────────────────
   faqs: [
     {
-      pregunta:  '¿Cuánto cuesta una limpieza por fallecimiento en Barcelona?',
-      respuesta: 'El precio varía según el tamaño de la vivienda, el grado de suciedad y los servicios requeridos. Una limpieza básica puede costar desde 195€, mientras que una limpieza completa con vaciado puede superar los 349€. Ofrecemos presupuestos personalizados sin compromiso.',
+      pregunta:  '¿Qué es la bioremediation y por qué es necesaria tras un fallecimiento?',
+      respuesta: 'La bioremediation es el proceso técnico de eliminación de contaminantes biológicos (bacterias, virus, fluidos corporales) mediante agentes específicos. Tras un fallecimiento, especialmente si no se descubre de inmediato, es imprescindible para garantizar la seguridad sanitaria del inmueble y su aptitud para venta o arrendamiento.',
     },
     {
-      pregunta:  '¿Cuánto tarda en realizarse una limpieza por fallecimiento?',
-      respuesta: 'Una limpieza básica puede tardar entre 2 y 4 horas. Una limpieza más completa, incluyendo el vaciado de la vivienda, puede requerir un día completo o incluso varios días, dependiendo del volumen de trabajo.',
+      pregunta:  '¿Qué documentación legal entrega Biofix tras la intervención?',
+      respuesta: 'Emitimos certificado de descontaminación biológica, albarán de residuos peligrosos según RD 180/2015, acta técnica de intervención y, en casos con necesidad legal, informe pericial. Toda la documentación es válida ante notarías, juzgados y compañías de seguros.',
     },
     {
-      pregunta:  '¿Qué incluye el servicio de limpieza tras fallecimiento?',
-      respuesta: 'El servicio incluye la retirada de pertenencias, la limpieza general, la eliminación de olores, la desinfección y la gestión de residuos.  Adaptamos los servicios a sus necesidades específicas.',
+      pregunta:  '¿Necesito el certificado de Biofix para vender o alquilar el piso?',
+      respuesta: 'No es un requisito legal obligatorio, pero muchos compradores y arrendatarios lo exigen, y notarías y aseguradoras lo valoran positivamente. En casos con fallecimiento con tiempo sin descubrir, la certificación técnica previene responsabilidades futuras.',
     },
     {
-      pregunta:  '¿Trabajáis en toda la comarca de Barcelona?',
-      respuesta: 'Sí, ofrecemos nuestros servicios en toda la ciudad de Barcelona (Sarrià-Sant Gervasi, Les Corts, Gràcia, Sant Martí, etc.) y en municipios del Baix Llobregat como Esplugues de Llobregat, Sant Just Desvern y Gavà.  También cubrimos zonas del Vallès Occidental.',
+      pregunta:  '¿Cómo verificáis que la descontaminación ha sido efectiva?',
+      respuesta: 'Utilizamos test de bioluminiscencia ATP que miden en tiempo real la carga biológica residual en superficies. Si el resultado supera el umbral de seguridad, repetimos el tratamiento sin coste adicional. El resultado del test queda recogido en el certificado de intervención.',
     },
     {
-      pregunta:  '¿Qué debo hacer antes de que lleguen los profesionales?',
-      respuesta: 'No es necesario realizar ninguna preparación especial. Simplemente asegúrese de tener acceso a la vivienda y de haber informado a cualquier persona que pueda estar presente en el momento de la limpieza.',
+      pregunta:  '¿Trabajáis con gestores de residuos autorizados por la Generalitat?',
+      respuesta: 'Sí. Biofix está inscrito como transportista de residuos peligrosos en el registro de la Agència de Residus de Catalunya (ARC). Todos los residuos biológicos se entregan a gestores certificados con el correspondiente documento de control de residuos (DCR).',
     },
     {
-      pregunta:  '¿Ofrecen garantías sobre su trabajo?',
-      respuesta: 'Garantizamos un servicio profesional, discreto y respetuoso. Utilizamos productos homologados y seguimos protocolos de higiene estrictos para asegurar la completa desinfección de la vivienda.',
+      pregunta:  '¿Actuáis en casos con intervención policial o judicial?',
+      respuesta: 'Sí, coordinamos con Mossos d\'Esquadra, policía local y juzgados cuando la situación lo requiere. Respetamos los plazos de levantamiento del precinto y adaptamos la intervención a los requerimientos del procedimiento judicial. Nuestra documentación es apta para uso en procesos legales.',
     }
   ],
 
   // ── Proceso de trabajo (4 pasos) ──────────────────────────────
   proceso: [
     {
-      titulo:      '1. Contacto inicial y presupuesto gratuito',
-      descripcion: 'Llámenos o contáctenos a través de nuestra página web para solicitar un presupuesto sin compromiso. Evaluaremos sus necesidades y le proporcionaremos una cotización detallada en menos de 30 minutos, respondiendo a su consulta desde {{city}}.',
+      titulo:      '1. Evaluación técnica y presupuesto sin compromiso',
+      descripcion: 'Nuestro técnico realiza una evaluación in situ del estado del inmueble en {{city}}: identifica agentes biológicos presentes, evalúa el nivel de contaminación y determina el protocolo más adecuado. El presupuesto técnico se entrega por escrito en menos de 24 horas.',
     },
     {
-      titulo:      '2. Evaluación del espacio y confirmación',
-      descripcion: 'Uno de nuestros técnicos visitará la vivienda para evaluar el alcance del trabajo y confirmar los servicios necesarios.  Este paso nos permite ofrecerle un presupuesto preciso y adaptado a sus necesidades específicas.',
+      titulo:      '2. Planificación del protocolo de intervención',
+      descripcion: 'Diseñamos el protocolo específico según el tipo y nivel de contaminación detectada: selección de biocidas, secuencia de tratamiento, medidas de seguridad y gestión de residuos. Todo queda documentado antes de iniciar la intervención.',
     },
     {
-      titulo:      '3. Ejecución de la limpieza con equipo profesional',
-      descripcion: 'Nuestro equipo se desplazará a su domicilio con todo el equipamiento necesario para realizar una limpieza profunda y completa, utilizando productos desinfectantes homologados y siguiendo protocolos sanitarios estrictos.',
+      titulo:      '3. Ejecución con equipo técnico especializado',
+      descripcion: 'El equipo de Biofix ejecuta el protocolo con EPIs de nivel biológico, equipos de nebulización calibrados y productos AEMPS registrados. Trabajamos con discreción total en {{city}}, sin señalización exterior y en horarios adaptados a sus necesidades.',
     },
     {
-      titulo:      '4. Entrega del informe detallado y documentación',
-      descripcion: 'Le entregaremos un informe detallado de los trabajos realizados, incluyendo la gestión de residuos peligrosos (si aplica) y cualquier otra documentación relevante.  Nos aseguramos de que se sienta completamente satisfecho con el resultado.',
+      titulo:      '4. Verificación y entrega de documentación certificada',
+      descripcion: 'Realizamos análisis de superficie post-intervención para verificar la eficacia del tratamiento. Si los resultados son conformes, emitimos el certificado de descontaminación, albaranes de residuos y acta técnica de intervención con validez legal.',
     }
   ],
 
